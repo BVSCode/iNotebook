@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bvsnotebook/static/css/main.6882944c.chunk.css",
+    "main.js": "/bvsnotebook/static/js/main.b0e3e18b.chunk.js",
+    "main.js.map": "/bvsnotebook/static/js/main.b0e3e18b.chunk.js.map",
+    "runtime-main.js": "/bvsnotebook/static/js/runtime-main.5fb96c63.js",
+    "runtime-main.js.map": "/bvsnotebook/static/js/runtime-main.5fb96c63.js.map",
+    "static/js/2.38da0fd6.chunk.js": "/bvsnotebook/static/js/2.38da0fd6.chunk.js",
+    "static/js/2.38da0fd6.chunk.js.map": "/bvsnotebook/static/js/2.38da0fd6.chunk.js.map",
+    "index.html": "/bvsnotebook/index.html",
+    "static/css/main.6882944c.chunk.css.map": "/bvsnotebook/static/css/main.6882944c.chunk.css.map",
+    "static/js/2.38da0fd6.chunk.js.LICENSE.txt": "/bvsnotebook/static/js/2.38da0fd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb96c63.js",
+    "static/js/2.38da0fd6.chunk.js",
+    "static/css/main.6882944c.chunk.css",
+    "static/js/main.b0e3e18b.chunk.js"
+  ]
+}
