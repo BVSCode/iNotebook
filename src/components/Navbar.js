@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link, useLocation, useHistory } from "react-router-dom";
-import { useHistory } from 'react-router-dom/cjs/react-router-dom.min';
+// import { useHistory } from 'react-router-dom/cjs/react-router-dom.min'
 
   
 
 const Navbar = () => {
+    let history = useHistory();  
     const hadleLogout=()=>{
-      let history = useHistory();  
       localStorage.removeItem('token');
       history.push('/login');
     }
